@@ -1,5 +1,5 @@
 # eXOtended
-A project I coded the summer before IB hit me insane in high school
+A project I coded the summer before stuff hit me insane in high school
 
 Basically something I did in 2021 I guess
 
